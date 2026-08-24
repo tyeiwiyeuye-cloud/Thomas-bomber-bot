@@ -17,8 +17,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 # ==================== CONFIGURATION ====================
-DEFAULT_MAIN_BOT_TOKEN = "7883509707:AAFyFxvUNmFlmvAgGub5kZ9KTGcXw7iSOYo"
-DEFAULT_ADMIN_BOT_TOKEN = "8353268447:AAEFfkkubAfWldYfUdOSE7sHrK2taZl_YXs"
+DEFAULT_MAIN_BOT_TOKEN = "7883509707:AAFSxvwgk_pjJFG5zMxwhSytIj8L864lVFY"
+DEFAULT_ADMIN_BOT_TOKEN = "8353268447:AAErDScAUdSpFudpBk_kcAAMQigk9IgPDfY"
 OWNER_ID = 8458169644
 
 # Default Settings
